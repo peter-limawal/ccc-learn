@@ -1,5 +1,5 @@
 /*
-CCC Junior 2019
+CCC Junior 2018
 Problem J2: Occupy parking
 */
 

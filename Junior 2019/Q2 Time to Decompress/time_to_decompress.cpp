@@ -23,6 +23,7 @@ int main() {
       output += symbol;
     }
     output += "\n";
+    
   }
 
   std::cout << output;

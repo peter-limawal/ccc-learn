@@ -19,11 +19,11 @@ int main() {
 
     std::cin >> symbol;
 
-    for (int k = 0; k < number; k++) {
+    for (int j = 0; j < number; j++) {
       output += symbol;
     }
     output += "\n";
-    
+
   }
 
   std::cout << output;
